@@ -1,6 +1,6 @@
 {
-  "name": "touch-icon-utils",
-  "version": "1.0.2",
+  "name": "@fullstax/touch-icon-utils",
+  "version": "2.0.0",
   "description": "Generate icons to all commonly accepted sizes and generate a proper HTML snippet",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/zimmo-be/touch-icon-utils#readme",
   "dependencies": {
-    "sharp": "^0.20.6"
+    "jimp": "^0.12.1"
   }
 }
