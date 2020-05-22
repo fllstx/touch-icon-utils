@@ -38,7 +38,8 @@ Passing settings is optional, default options are:
 ```json
 {
     "appleSizes": [180, 152, 144, 120, 114, 76, 72],
-    "precomposed": true
+    "precomposed": true,
+    "urlBase": "/"
 }
 ```
 Note: Icons for sizes 57x57 and 192x192 are always rendered and don't need to be provided in `appleSizes`
